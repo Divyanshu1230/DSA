@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Divyanshu1230/DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyanshu1230/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Divyanshu1230/DSA/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Divyanshu1230/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Divyanshu1230/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyanshu1230/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divyanshu1230/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Divyanshu1230/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
