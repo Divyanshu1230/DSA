@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Divyanshu1230/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Divyanshu1230/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Divyanshu1230/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Divyanshu1230/DSA/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Divyanshu1230/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
