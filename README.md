@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Divyanshu1230/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu1230/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Divyanshu1230/DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyanshu1230/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu1230/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Divyanshu1230/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Divyanshu1230/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyanshu1230/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Divyanshu1230/DSA/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
