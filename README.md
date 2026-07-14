@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Divyanshu1230/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu1230/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Divyanshu1230/DSA/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Divyanshu1230/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu1230/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyanshu1230/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Divyanshu1230/DSA/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
