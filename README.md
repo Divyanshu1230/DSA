@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Divyanshu1230/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Divyanshu1230/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyanshu1230/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Divyanshu1230/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
