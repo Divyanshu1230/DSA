@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Divyanshu1230/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Divyanshu1230/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Divyanshu1230/DSA/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
