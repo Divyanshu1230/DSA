@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Divyanshu1230/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divyanshu1230/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Divyanshu1230/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Divyanshu1230/DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Divyanshu1230/DSA/tree/master/0078-subsets) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Divyanshu1230/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divyanshu1230/DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Divyanshu1230/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu1230/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -138,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Divyanshu1230/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshu1230/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Divyanshu1230/DSA/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyanshu1230/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Divyanshu1230/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
