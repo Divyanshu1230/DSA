@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Divyanshu1230/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyanshu1230/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Divyanshu1230/DSA/tree/master/1672-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Divyanshu1230/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyanshu1230/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Divyanshu1230/DSA/tree/master/0412-fizz-buzz) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyanshu1230/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Divyanshu1230/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyanshu1230/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Divyanshu1230/DSA/tree/master/0412-fizz-buzz) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Divyanshu1230/DSA/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
