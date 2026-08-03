@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Divyanshu1230/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Divyanshu1230/DSA/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Divyanshu1230/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Divyanshu1230/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Divyanshu1230/DSA/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
