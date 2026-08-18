@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Divyanshu1230/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Divyanshu1230/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Divyanshu1230/DSA/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Divyanshu1230/DSA/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Divyanshu1230/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Divyanshu1230/DSA/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
