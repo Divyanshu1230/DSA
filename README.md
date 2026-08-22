@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Divyanshu1230/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Divyanshu1230/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Divyanshu1230/DSA/tree/master/1672-richest-customer-wealth) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Divyanshu1230/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Divyanshu1230/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divyanshu1230/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Divyanshu1230/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshu1230/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Divyanshu1230/DSA/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Divyanshu1230/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
