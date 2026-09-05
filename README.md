@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Divyanshu1230/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Divyanshu1230/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Divyanshu1230/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Divyanshu1230/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Divyanshu1230/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divyanshu1230/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divyanshu1230/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Divyanshu1230/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyanshu1230/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divyanshu1230/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Greedy
