@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Divyanshu1230/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divyanshu1230/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divyanshu1230/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Divyanshu1230/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Divyanshu1230/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Divyanshu1230/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyanshu1230/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Divyanshu1230/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Divyanshu1230/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Divyanshu1230/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
