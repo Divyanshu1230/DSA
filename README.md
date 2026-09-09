@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu1230/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Divyanshu1230/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu1230/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Divyanshu1230/DSA/tree/master/0383-ransom-note) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu1230/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Divyanshu1230/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu1230/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Divyanshu1230/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Divyanshu1230/DSA/tree/master/0038-count-and-say) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Divyanshu1230/DSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Divyanshu1230/DSA/tree/master/0412-fizz-buzz) |
