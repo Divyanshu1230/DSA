@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Divyanshu1230/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu1230/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Divyanshu1230/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Divyanshu1230/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Divyanshu1230/DSA/tree/master/0409-longest-palindrome) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Divyanshu1230/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Divyanshu1230/DSA/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu1230/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Divyanshu1230/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshu1230/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Divyanshu1230/DSA/tree/master/0345-reverse-vowels-of-a-string) |
