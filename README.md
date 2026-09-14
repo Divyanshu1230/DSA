@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu1230/DSA/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Divyanshu1230/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu1230/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Divyanshu1230/DSA/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu1230/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu1230/DSA/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyanshu1230/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Divyanshu1230/DSA/tree/master/0875-koko-eating-bananas) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divyanshu1230/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Divyanshu1230/DSA/tree/master/0905-sort-array-by-parity) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu1230/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Divyanshu1230/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Divyanshu1230/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Divyanshu1230/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Divyanshu1230/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Divyanshu1230/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Divyanshu1230/DSA/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Divyanshu1230/DSA/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Divyanshu1230/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
