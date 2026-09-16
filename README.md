@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Divyanshu1230/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Divyanshu1230/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Divyanshu1230/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Divyanshu1230/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Divyanshu1230/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Divyanshu1230/DSA/tree/master/0078-subsets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Divyanshu1230/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Divyanshu1230/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Divyanshu1230/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Divyanshu1230/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu1230/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Divyanshu1230/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu1230/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Divyanshu1230/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu1230/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu1230/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Divyanshu1230/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Divyanshu1230/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Divyanshu1230/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu1230/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu1230/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
