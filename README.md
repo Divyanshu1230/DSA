@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Divyanshu1230/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Divyanshu1230/DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divyanshu1230/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Divyanshu1230/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Divyanshu1230/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divyanshu1230/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Divyanshu1230/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Divyanshu1230/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Divyanshu1230/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
