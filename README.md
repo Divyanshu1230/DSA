@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Divyanshu1230/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu1230/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Divyanshu1230/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu1230/DSA/tree/master/0216-combination-sum-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Divyanshu1230/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu1230/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Divyanshu1230/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Divyanshu1230/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Divyanshu1230/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu1230/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Divyanshu1230/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu1230/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu1230/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyanshu1230/DSA/tree/master/0344-reverse-string) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Divyanshu1230/DSA/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Divyanshu1230/DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu1230/DSA/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Divyanshu1230/DSA/tree/master/0680-valid-palindrome-ii) |
