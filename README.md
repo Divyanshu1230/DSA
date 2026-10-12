@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Divyanshu1230/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Divyanshu1230/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divyanshu1230/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Divyanshu1230/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Divyanshu1230/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divyanshu1230/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Divyanshu1230/DSA/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Divyanshu1230/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Divyanshu1230/DSA/tree/master/0234-palindrome-linked-list) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divyanshu1230/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Divyanshu1230/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyanshu1230/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
