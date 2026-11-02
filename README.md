@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Divyanshu1230/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyanshu1230/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divyanshu1230/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Divyanshu1230/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Divyanshu1230/DSA/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyanshu1230/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divyanshu1230/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Divyanshu1230/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Divyanshu1230/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Divyanshu1230/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyanshu1230/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divyanshu1230/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Divyanshu1230/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -448,8 +451,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyanshu1230/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divyanshu1230/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyanshu1230/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divyanshu1230/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
