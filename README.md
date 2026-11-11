@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyanshu1230/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Divyanshu1230/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Divyanshu1230/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Divyanshu1230/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu1230/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu1230/DSA/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Divyanshu1230/DSA/tree/master/0268-missing-number) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Divyanshu1230/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshu1230/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Divyanshu1230/DSA/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Divyanshu1230/DSA/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu1230/DSA/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Divyanshu1230/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Divyanshu1230/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
